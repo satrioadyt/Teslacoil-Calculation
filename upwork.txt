@@ -1,0 +1,55 @@
+Electronics engineer with years of combined experience in the automation and product design field. Excellent interpersonal and communication abilities, and possess a wide range of technical skills to provide leadership and build positive relationships with all levels of staff. Highly motivated and passionate in the electrical and automation design field and in an organization that embraces creativity and innovation.
+
+HARDWARE:
+• Schematic capture: Digital, Analog, Power electronics
+• PCB Layout: 1 - 10 layers;
+• Component selection, BOM generation, manufacturing documents;
+• Arduino, AVR, PIC, 32-bit Arm Cortex-M3 BLE MCU, NodeMCU
+• PLC, Electrical Automation Design
+• Home/Building Electrical Installation
+
+FIRMWARE:
+• MCU firmware in C/C++ for ARM, TI, NXP, Atmel, PIC, Arduino
+• PLC
+• Python (Data Science and Machine Learning)
+• Bluetooth, Bluetooth Low Energy (BLE), and wireless modules programming.
+
+Electrical Design Software:
+• Altium Designer, Eagle Cad, KiCad
+• NI Multisim, PSpice, TINA-TI, Electronics Workbench, and Proteus PCB Design & Simulation
+• Atmel Studio, MPLAB IDE, CCS C Compiler, PICkit™ 3 In-Circuit Debugger, Code Composer Studio
+• Arduino, LabView
+• Logix Pro, GX Developer, Keyence PLC
+
+Mechanical Design Software
+• NX CAD, AutoCAD, Sketchup
+• Arbortext Isodraw, Adobe Framework
+
+Other software/website used:
+•JIRA, Trello, Github, Primavera
+•Digikey, Mouser, RS
+•Silicon Expert
+
+Engineering Services
+• Engineering Report (Feasibility Study, Parts Obsolescence Review, BOM Analysis, Project Research, Investigation Report)
+• BOM optimization (Component/Parts, Alternate Parts, and low cost and effective part research)
+• Product Design
+- PCB and Schematic Design
+- CAD Modeling
+- Automation and Embedded Programming
+- Internet of Things
+- Project Cost Analysis, Components Research, and BOM
+
+Interests
+• PCB Layout and Schematic Capture Design
+• Automation Design
+• Embedded Projects
+• Data Science and Machine Learning
+• CAD
+
+My goal is to provide :
+• Best effort and quality for every project at a reasonable rate ($).
+• Free servicing facility even after completing the project.
+• Finish the project with the best quality within the shortest possible time.
+
+less

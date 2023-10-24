@@ -1,0 +1,25 @@
+Circuit: * D:\UpWork\Stepdown_Simulation.asc
+
+WARNING: Node N007 is floating.
+WARNING: Node N011 is floating.
+WARNING: Node N008 is floating.
+
+.OP point found by inspection.
+
+Date: Mon Sep 18 19:52:52 2023
+Total elapsed time: 0.206 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5158
+traniter = 5158
+tranpoints = 2580
+accept = 1783
+rejected = 797
+matrix size = 21
+fillins = 6
+solver = Normal
+Matrix Compiler1: 1.85 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 1.80 KB object code size  0.1/0.2/[0.1]
+
